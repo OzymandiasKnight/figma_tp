@@ -34,3 +34,7 @@ Par exemple, on a fait une propriété "contenu" dans le composant "mail" pour p
 la possibilité de modifier le style de tout les mail automatiquements.
 
 Lien figma : https://www.figma.com/design/uJeABd0zy1HN51hy9i2mlK/gmail?node-id=0-1&m=dev&t=7s1kqCwnZ72p3Mca-1
+
+^
+|
+|
